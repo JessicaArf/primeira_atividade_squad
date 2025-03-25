@@ -1,1 +1,1 @@
-{print("Amigo estou aqui....")}
+print("Amigo estou aqui....")
